@@ -1,0 +1,11 @@
+[
+  {
+    "user":"I lost my job and feel frozen",
+    "assistant":{
+      "step":1,
+      "instruction":"Pause. Take a slow breath. We will handle this together.",
+      "actionable":true,
+      "resolved":false
+    }
+  }
+]
